@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prova1</string>
+    <string name="txAmount">Amount</string>
+    <string name="txCustom">Custom %</string>
+    <string name="txTip">Tip</string>
+    <string name="txTotal">Total</string>
+</resources>
